@@ -1,5 +1,5 @@
 # Website
-> [Δείτε το site ζωντανά](http://Mitsakit.github.io/Mitsakit)
+> [Δείτε το site ζωντανά](http://mitsakit.github.io/)
 
 ## Εγκαταστήστε αυτό το site σε 30 δευτερόλεπτα! Να πώς:
 1. Κάντε **fork** το παρόν repository
