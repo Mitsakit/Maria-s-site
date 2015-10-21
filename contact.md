@@ -1,8 +1,5 @@
 # Επικοινωνία
-
-
-![contact-us_9fl9l60p](https://cloud.githubusercontent.com/assets/14877897/10635544/3918229e-7802-11e5-8280-e2a70a3efcb0.png)
-
+![communication-_32](https://cloud.githubusercontent.com/assets/14877897/10635625/c1b6a77e-7802-11e5-8b74-1d9671e7f8f7.jpg)
 
 ## Στοιχεία επικοινωνίας
 Maria Constantinou
