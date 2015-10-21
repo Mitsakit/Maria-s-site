@@ -1,5 +1,9 @@
-# Ειδήσεις
-Τι αποκαλύπτουν τα status σου sto Facebook
-![]http://techit.gr/2015/05/ti-apokaliptoun-ta-status-sou-sto-facebook/
+# Ειδήσεις για το GitHub
+
+##GitHub: Learning code is as creative as learning music
+
+![]http://www.itpro.co.uk/strategy/25462/github-learning-code-is-as-creative-as-learning-music
+
+
 
 
