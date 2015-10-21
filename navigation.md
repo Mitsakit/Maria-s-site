@@ -4,4 +4,4 @@
 [Φωτογραφίες](photos.md)
 [Διάφορα](misc.md)
 [Επικοινωνία](contact.md)
-[Βοήθεια για το site](help.md)
+
